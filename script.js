@@ -13,7 +13,7 @@ function createTable() {
 			// td.appendChild(cellText);
 			// tr.appendChild(td);
 			let td=tr.insertCell(j);
-			td.innerHTML="Row-"+i+" Colunm-"+j;
+			td.innerHTML="Row-"+i+" Column-"+j;
 		}
 		// tblBody.appendChild(tr);
 	}
